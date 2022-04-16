@@ -1,5 +1,5 @@
-# QuestCease_Twitterapi
-     QUOTE MAKER & MOOD ANALYZER
+# QUOTE Maker & MOOD Analyzer
+     
 ### **Purpose of Project:**
 - To convert a tweet into quote.
 - Analyse sentiment (mood) of the tweet wheher it is negative, neutral or positive on a graded scale.
