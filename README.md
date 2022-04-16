@@ -19,7 +19,7 @@ https://twitter-api-quote-mood.web.app/
 4. View the mood of the tweet you selected. 
    - Positive = 🤗
    - Negative = 🥺
-   - Neutral = 😐 or No Emoji
+   - Neutral = 😐
 
 ### **Images  of App:**
 #### *Landing Page*
