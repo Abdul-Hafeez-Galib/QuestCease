@@ -5,7 +5,7 @@
 - Analyse sentiment (mood) of the tweet wheher it is negative, neutral or positive on a graded scale.
 
 ### **Tech Stack Used:**
-- *Frontend:-* AngularJS 
+- *Frontend:-* Angular
 - *Backend:-* NodeJS + ExpressJS
 - *API:-* Twitter API v2
 
