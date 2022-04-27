@@ -12,12 +12,12 @@ const cors = require('cors');
 app.use(cors());
 
 const client=new TwitterApi({
-    appKey:'jakSk2nehh84BPKNZdqlZq2Dx',
-    appSecret:'9NPeEDLQCl5sIs2br8Ts8l4br9RmsMZBqdMoB1OqiOzKXRm8LO',
-    accessToken:'1515018167881703427-DLmWqZs55BwY55xRCAhWXShdCyqTpi',
-    accessSecret:'dFAWdc2PCmVGcY3BIRbHCjUstxVTqv5dTrc99e7j06rAE'
+    appKey:'xxxxxxxxxxxxxx',
+    appSecret:'xxxxxxxxxxxx',
+    accessToken:'xxxxxxxxxxxx',
+    accessSecret:'xxxxxxxxxxxxxx'
 })
-// const client=new TwitterApi('AAAAAAAAAAAAAAAAAAAAAPggbgEAAAAAD3CAyknNrx8hWWBDBQoP2cEUfUU%3DPjAJpdb5K7Kb2jG9ME0s2ikF3pgzsPt7Shkn00hTIvHvUb3mOG');
+
 var id;
 
 
@@ -32,6 +32,7 @@ app.get('/get/username/:id',(req,res)=>{
     catch(e){
         console.error(e);
     }
+
     }
     tweet();
     
