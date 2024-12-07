@@ -1,4 +1,5 @@
-# **QUOTE Maker & MOOD Analyzer**
+# QuestCease
+QuestCease is an innovative project designed to analyze sentiment in real-time tweets and transform positivity into inspiring quotes. Powered by advanced sentiment analysis and natural language processing, QuestCease scours the Twitterverse, identifies tweets with uplifting sentiments, and generates thought-provoking quotes to amplify the positivity.
      
 ### **Purpose of Project:**
 - To convert a tweet into quote.
